@@ -5,9 +5,8 @@ body {
 }
 
 .openhead {
-  margin-right: auto;
-  margin-left: auto;
-  height: 50px;
+  margin: auto;
+  height: 100px;
   color: blue;
   background-color: lightblue;
   width: 1024px;
