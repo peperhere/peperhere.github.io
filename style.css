@@ -1,6 +1,11 @@
 body {
   background-color:lightgray;
-  margin-left:auto;
-  margin-right: auto;
+
   
+}
+
+.title {
+  margin-right: auto;
+  margin-left: auto;
+  height: 50px;
 }
