@@ -1,1 +1,1 @@
-let greeting = prompt("witaj na mojej stronie typie");
+let greeting = alert("witaj na mojej stronie typie");
